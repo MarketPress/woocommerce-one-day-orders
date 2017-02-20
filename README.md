@@ -9,7 +9,6 @@ Gives you the possibility to show only orders of one special day in the shop ord
 
 ## Installation
 * [Upload](http://codex.wordpress.org/Plugins_Add_New_SubPanel#Upload_Tab) and activate the plugin.
-* Go to WooCommerce > Settings > Tax to pick your settings for the plugin.
 
 ## Other Notes
 ### Licence
